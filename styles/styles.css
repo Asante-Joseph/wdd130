@@ -27,7 +27,7 @@ p {
 
 main  {
   max-width: 600px;
-  margin: 0 auto;
+  margin: 0.5 auto;
 }
 
 aside img {
@@ -39,6 +39,7 @@ aside img {
   color: black;
   text-align: left;
   box-shadow: 0 0 20px gray;
+  margin: 0 auto;
 
 }
 
