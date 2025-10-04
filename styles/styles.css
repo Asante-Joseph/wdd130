@@ -22,34 +22,34 @@ main img {
 }
 
 p {
-  padding: 0px;
+  padding: 0;
 }
 
 main  {
   max-width: 600px;
-  margin: 0.5 auto;
+  margin: 0.5px auto;
 }
 
-aside img {
+ img {
   width: 400px;
   margin: 1.2rem;
-  border: .5px solid rgb (0 0 0 / 0.2);
+  border: .5px solid rgb(0 0 0 / 0.2);
   padding: 1rem;
   background-color: white;
   color: black;
   text-align: left;
   box-shadow: 0 0 20px gray;
-  margin: 0 auto;
+  margin: auto;
 
 }
 
 aside img {
-  width: 200px;
+  width: 200px;  
   height: auto;
 }
 
 footer {
-  margin: 15px;
+  margin-top: 15px;
   border-top: 1px solid #000;
   text-align: center;
 
